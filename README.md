@@ -2,6 +2,7 @@
 - 👨‍💻 I'm a Computer Science Engineering student 🖥️
 - 👀 I'm passionate about exploring and creating with the latest in modern technology 🌐
 - 📫 You can reach me on Linkdin @mayankrajz 📩
+- 📋 Portfolio: https://mayankrajz.netlify.app/ 📜
 
 <!---
 mayankrajz/mayankrajz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
