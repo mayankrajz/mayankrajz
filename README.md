@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank 🙋
 - 👨‍💻 I'm a Computer Science Engineering student 🖥️
-- 👀 I'm passionate about exploring and creating with the latest in modern technology 🌐
+- 👀 My goal is to build a successful career in the industry, focusing on data-driven solutions. 🌐
 - 📫 You can reach me on Linkdin @mayankrajz 📩
 - 📋 Portfolio: https://mayankrajz.netlify.app/ 📜
 
